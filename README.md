@@ -1,6 +1,6 @@
 ### Hola, I'm Hesham 👋
-Flutter Developer , EXP 1 years of Designing and implementing projects using dart , flutter third-party libraries, i'm looking for
-challenging work that can add more and more real-life knowledge and skills to my career
+Flutter Developer , EXP 1 years of Designing and implementing projects using dart , flutter.
+i'm looking for challenging work that can add more and more real-life knowledge and skills to my career
 
 
 
